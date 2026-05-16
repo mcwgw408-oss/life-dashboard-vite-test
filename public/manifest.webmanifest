@@ -1,0 +1,19 @@
+{
+  "name": "ミニアプリ集",
+  "short_name": "ミニアプリ",
+  "description": "生活用ミニアプリを1つのURLで切り替え",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f3eb",
+  "theme_color": "#45745f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/pwa-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

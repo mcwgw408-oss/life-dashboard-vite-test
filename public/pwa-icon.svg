@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="今日の買い物">
+  <rect width="512" height="512" rx="112" fill="#45745f"/>
+  <path d="M153 206h206l-18 151a43 43 0 0 1-43 38h-84a43 43 0 0 1-43-38l-18-151Z" fill="#fffefa"/>
+  <path d="M197 207c0-54 24-88 59-88s59 34 59 88" fill="none" stroke="#fffefa" stroke-width="32" stroke-linecap="round"/>
+  <path d="m215 289 31 31 67-72" fill="none" stroke="#b8584c" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
